@@ -62,7 +62,7 @@
     "robmorgan/phinx":              "~0.8.0",
     "sensiolabs/ansi-to-html":      "~1.1.0",
     "pda/pheanstalk":               "~3.1.0",
-    "guzzlehttp/guzzle":            "~6.2.0",
+    "guzzlehttp/guzzle": "~6.3.0",
     "jasongrimes/paginator":        "~1.0.0",
 
     "phpunit/phpunit":                 "~5.7.0",
