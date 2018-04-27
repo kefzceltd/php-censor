@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "8965a68500ef702db4011ac02c3e179f",
+    "content-hash": "db35ed0acb20e0cd3c5e4fcd7c853088",
     "packages": [
         {
             "name": "behat/gherkin",
@@ -158,24 +158,19 @@
         },
         {
             "name": "bower-asset/font-awesome",
-            "version": "v4.7.0",
+            "version": "5.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FortAwesome/Font-Awesome.git",
-                "reference": "a8386aae19e200ddb0f6845b5feeee5eb7013687"
+                "reference": "85f10f277c33a1d70891f1c8d793d5d9a69d5b3d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FortAwesome/Font-Awesome/zipball/a8386aae19e200ddb0f6845b5feeee5eb7013687",
-                "reference": "a8386aae19e200ddb0f6845b5feeee5eb7013687",
+                "url": "https://api.github.com/repos/FortAwesome/Font-Awesome/zipball/85f10f277c33a1d70891f1c8d793d5d9a69d5b3d",
+                "reference": "85f10f277c33a1d70891f1c8d793d5d9a69d5b3d",
                 "shasum": null
             },
-            "type": "bower-asset",
-            "license": [
-                "OFL-1.1",
-                "MIT",
-                "CC-BY-3.0"
-            ]
+            "type": "bower-asset"
         },
         {
             "name": "bower-asset/ionicons",
