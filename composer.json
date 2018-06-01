@@ -75,7 +75,7 @@
     "jakub-onderka/php-parallel-lint": "~1.0.0",
     "sensiolabs/security-checker":     "~4.0.0",
 
-    "doctrine/instantiator":             "~1.0.0",
+    "doctrine/instantiator":             "~1.1.0",
     "phpunit/php-token-stream":          "~1.4.0",
     "phpdocumentor/reflection-docblock": "~2.0.0",
 
